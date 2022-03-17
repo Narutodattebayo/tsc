@@ -32,6 +32,6 @@
     "request": "^2.88.2",
     "socket.io": "^2.3.0",
     "swagger-express-ts": "^1.0.1",
-    "swagger-ui-dist": "^3.26.0"
+    "swagger-ui-dist": "^4.1.3"
   }
 }
